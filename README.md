@@ -12,9 +12,9 @@
 
 目录
 
-* 走进前端
+* 前端杂谈
     * 为什么做前端?
 * 基础知识(持续更新中)
-    * 如何socket 简单实现HTTP服务器
+    * [如何socket 简单实现HTTP服务器](https://github.com/chthollys/blog/blob/master/write_a_http_server)
 * 前端工程(持续更新中)
 
