@@ -13,7 +13,7 @@
 目录
 
 * 前端杂谈
-    * 为什么做前端?
+    * [为什么做前端](https://github.com/chthollys/blog/tree/master/%E4%B8%8E%E5%89%8D%E7%AB%AF%E7%9A%84%E5%8E%86%E5%8F%B2)
 * 基础知识(持续更新中)
     * [如何socket 简单实现HTTP服务器](https://github.com/chthollys/blog/blob/master/write_a_http_server)
 * 前端工程(持续更新中)
