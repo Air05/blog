@@ -7,7 +7,7 @@
 * 目前在关注的项目
     * [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - 基于opencv的nodejs库，可以实现视频目标追踪，人脸识别等功能。可用于安防，监控等各个领域。
     * [egg.js](https://github.com/eggjs/egg/) - 为企业级框架和应用而生
-    * [UmiJS](https://github.com/eggjs/egg/) - 可插拔的企业级 react 应用框架,也是目前使用的前端框架
+    * [UmiJS](https://github.com/umijs/umi) - 可插拔的企业级 react 应用框架,也是目前使用的前端框架
     * [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code) - 通过机器学习自动生成前端代码
 
 目录
